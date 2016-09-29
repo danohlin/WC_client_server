@@ -11,7 +11,7 @@ server receives one file name from client and peforms a count of words, chars an
 Server
 
 run as:
-'''./server port_number'''
+```./server port_number```
 e.g. 
 ~~~~
 ./server 2540
@@ -22,7 +22,7 @@ Counting words for file: Japan_earthquake.txt
 Client
 
 run as:
-'''./client hostname port_number'''
+```./client hostname port_number```
 e.g. 
 ~~~~
 ./client example.com 2540
